@@ -4,6 +4,11 @@ collected writings of Nick Szabo
 
 # articles
 
+(History and the Security of Property)[history_property.md]
+(Secure Property Titles with Owner Authority)[secure_titles.md]
+
+# articles link
+
 http://web.archive.org/web/20160303184809/http://szabo.best.vwh.net/securetitle.html
 http://web.archive.org/web/20160306211023/http://szabo.best.vwh.net/formalize.html
 http://web.archive.org/web/20160209085850/http://szabo.best.vwh.net/distributed.html
