@@ -4,8 +4,8 @@ collected writings of Nick Szabo
 
 # articles
 
-(History and the Security of Property)[history_property.md]
-(Secure Property Titles with Owner Authority)[secure_titles.md]
+[History and the Security of Property](history_property.md)
+[Secure Property Titles with Owner Authority](secure_titles.md)
 
 # articles link
 
