@@ -7,12 +7,15 @@ collected writings of Nick Szabo
 * [Secure Property Titles with Owner Authority](secure_titles.md)
 * [Formalizing and Securing Relationships on Public Networks](formalize.md)
 * [History and the Security of Property](history_property.md)
+* [Proplets -- Devices for Controlling Property](proplet.md)
+* [Shelling Out -- The Origins of Money](shell.md)
 
 # articles link
 
 http://web.archive.org/web/20160303184809/http://szabo.best.vwh.net/securetitle.html
 http://web.archive.org/web/20160306211023/http://szabo.best.vwh.net/formalize.html
 http://web.archive.org/web/20160209085850/http://szabo.best.vwh.net/distributed.html
+http://web.archive.org/web/20160306195830/http://szabo.best.vwh.net/shell.html
 http://web.archive.org/web/20160311183855/http://szabo.best.vwh.net/scarce.html
 http://web.archive.org/web/20160310162503/http://szabo.best.vwh.net/delegation.pdf
 http://web.archive.org/web/20160114125113/http://szabo.best.vwh.net/history.html
